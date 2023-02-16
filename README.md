@@ -1,1 +1,2 @@
 # SabanaAfricanaHilos
+El objetivo principal de esta práctica es la realización del juego de la sabana africana, donde existen varios animales que compiten por ver quién es el ganador. Para la realización de esta práctica se utilizará el lenguaje de programación Python y cada animal del juego será un hilo, por lo que deberemos controlar las secciones criticas cuando se accedan a variables comunes entre hilos.
